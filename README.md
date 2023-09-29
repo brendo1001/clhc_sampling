@@ -12,4 +12,4 @@ This repository contains a few workflows all developed in R, that answers those 
 
 ### Who do I talk to? ###
 
-* Brendan Malone (brendan.malone@sydney.edu.au)
+* Brendan Malone (<brendan.malone@csiro.au>)
